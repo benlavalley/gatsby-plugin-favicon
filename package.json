@@ -1,11 +1,11 @@
 {
   "name": "gatsby-plugin-favicon",
-  "version": "3.1.7",
+  "version": "3.1.8",
   "description": "Gatsby plugin to add favicon for all configurations",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Creatiwity/gatsby-plugin-favicon.git"
+    "url": "git+https://github.com/Redocly/gatsby-plugin-favicon.git"
   },
   "keywords": [
     "gatsby",
