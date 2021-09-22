@@ -1,11 +1,11 @@
 {
   "name": "gatsby-plugin-favicon",
-  "version": "3.1.8",
+  "version": "3.1.9",
   "description": "Gatsby plugin to add favicon for all configurations",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Redocly/gatsby-plugin-favicon.git"
+    "url": "git+https://github.com/benlavalley/gatsby-plugin-favicon.git"
   },
   "keywords": [
     "gatsby",
@@ -15,12 +15,12 @@
   "author": "Julien Blatecky <julien.blatecky@creatiwity.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Creatiwity/gatsby-plugin-favicon/issues"
+    "url": "https://github.com/benlavalley/gatsby-plugin-favicon/issues"
   },
-  "homepage": "https://github.com/Creatiwity/gatsby-plugin-favicon#readme",
+  "homepage": "https://github.com/benlavalley/gatsby-plugin-favicon#readme",
   "readme": "README.md",
   "dependencies": {
-    "favicons-webpack-plugin": "https://github.com/Creatiwity/favicons-webpack-plugin.git#0872de414061baaad0a2853c77ae75bc38b8bbbf",
+    "favicons-webpack-plugin": "https://github.com/benlavalley/favicons-webpack-plugin.git",
     "html-react-parser": "^1.2.5",
     "lodash": "^4.17.21"
   },
